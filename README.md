@@ -1,11 +1,10 @@
 
-Project Title
+# 🚦 Road Accident Interactive Dashboard (Excel Project)
 
-🚦 Road Accident Interactive Dashboard (Excel Project)
 
 An interactive Excel dashboard created using Pivot Tables and Charts to analyze and visualize two years of road accident data. This project provides key insights into accident trends, causes, vehicle types, and affected demographics — helping users understand data patterns and make data-driven decisions.
 
-📑 Table of Contents
+📑 **Table of Contents:**
 
 📘 Project Overview
 
@@ -25,10 +24,11 @@ An interactive Excel dashboard created using Pivot Tables and Charts to analyze 
 
 📫 Connect with Me
 
-📘 Project Overview
 
-This Road Accident Dashboard was created in Microsoft Excel to analyze two years of road accident records.
-Using Pivot Tables and interactive slicers, the dashboard enables users to filter and view accident insights by parameters such as:
+
+📘 **Project Overview**
+
+This Road Accident Dashboard was created in Microsoft Excel to analyze two years of road accident records. Using Pivot Tables and interactive slicers, the dashboard enables users to filter and view accident insights by parameters such as:
 
 💠Year, Month, and Day
 
@@ -42,15 +42,20 @@ Using Pivot Tables and interactive slicers, the dashboard enables users to filte
 
 💠Time of Day
 
-📊 Dashboard Features
+📊 **Dashboard Features**
 
-✅ Interactive slicers for dynamic filtering
-✅ Visual representation using charts and KPIs
-✅ Trend analysis across two years
-✅ Comparison between accident severities
+✅ Interactive slicers for dynamic filtering 
+
+✅ Visual representation using charts and KPIs 
+
+✅ Trend analysis across two years 
+
+✅ Comparison between accident severities 
+
 ✅ User-friendly and visually appealing layout
 
-📈 Insights & Key Findings
+
+📈 **Insights & Key Findings**
 
 Some of the key insights discovered from the dataset include:
 
@@ -64,27 +69,27 @@ Some of the key insights discovered from the dataset include:
 
 👉🏻Distribution of fatal, serious, and minor accidents
 
-🧠 Skills & Tools Used
-Category	Tools/Techniques
-Software	Microsoft Excel
-Data Analysis	Pivot Tables, Data Cleaning, Data Validation
-Visualization	Pivot Charts, Slicers, Conditional Formatting
-Design	Dashboard Layout, KPI Indicators, Color Coding
+🧠 S**kills & Tools Used**
 
-🗂️ Project Files in Repository
-File Name	Description
-Road Accident Data of 2 Years by SAHELI NATH.xlsx	Excel workbook containing the dataset and interactive dashboard
+ Category Tools/Techniques Software:
+ 
+  Microsoft Excel Data Analysis Pivot Tables, Data Cleaning, Data Validation Visualization Pivot Charts, Slicers, Conditional Formatting Design Dashboard Layout, KPI Indicators, Color Coding
 
-Road Accident Dashboard.png	Static image preview of the dashboard
+🗂️ **Project Files in Repository**
 
-Road Accident Dashboard.mp4	Video demonstration showing the dashboard’s interactivity
+ File Name Description
+ 
+  Road Accident Data of 2 Years by SAHELI NATH.xlsx Excel workbook containing the dataset and interactive dashboard
 
-⚙️ How to Use the Dashboard
+Road Accident Dashboard.png Static image preview of the dashboard
+
+Road Accident Dashboard.mp4 Video demonstration showing the dashboard’s interactivity
+
+⚙️ **How to Use the Dashboard**
 
 Download the Excel file:
 
 Road Accident Data of 2 Years by SAHELI NATH.xlsx
-
 
 Open it in Microsoft Excel (preferably Excel 2016 or later)
 
@@ -92,34 +97,35 @@ Enable content and macros (if prompted)
 
 Use the slicers to filter data and explore accident insights interactively
 
-🎥 Dashboard Preview
-🖼️ Screenshot
+🎥 **Dashboard Preview**
 
-▶️ Interactive Demo
+▶️ **Interactive Demo**
 
-Click to Watch the Dashboard Video
 
-💡 Learnings
+
+💡 **Learnings**
 
 Through this project, I learned how to:
 
-Clean and prepare raw accident data for analysis
+1. Clean and prepare raw accident data for analysis
 
-Use Pivot Tables to extract insights
+2. Use Pivot Tables to extract insights
 
-Design an interactive dashboard layout
+3. Design an interactive dashboard layout
 
-Apply data visualization best practices
+4. Apply data visualization best practices
 
-Present analytical findings effectively
+5. Present analytical findings effectively
 
-📫 Connect with Me
+📫 **Connect with Me**
 
 If you liked this project or want to collaborate, feel free to connect with me on:
 
-LinkedIn: [https://www.linkedin.com/in/saheli-nath28/]
+**LinkedIn:** [https://www.linkedin.com/in/saheli-nath28/]
 
-GitHub: [https://github.com/sahelinath22]
+**GitHub:** [https://github.com/sahelinath22]
 
-Email: [nathsaheli1999@gmail.com]
+**Email:** [nathsaheli1999@gmail.com]
+
+
 
