@@ -99,7 +99,7 @@ Use the slicers to filter data and explore accident insights interactively
 
 🎥 **Dashboard Preview**
 
-▶️ **Interactive Demo**
+<img src="https://github.com/sahelinath22/Road-Accident-Interactive-Dashboard-Analysis-by-SAHELI-NATH/blob/cf0ac16b253399d51037f2affe960a8e2ce41bd5/Road%20Accident%20Data%20of%202%20Years%20by%20SAHELI%20NATH.png" alt="Image Description" width="600">
 
 
 
